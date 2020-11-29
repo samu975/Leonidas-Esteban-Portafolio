@@ -146,18 +146,7 @@ h2{
     max-width: 100%;
     width: 100%;
 }
-.flexbox{
-    display: flex;
-    flex-wrap: wrap;
 
-}
-.box{
-    width: 52px;
-    height: 52px;
-    margin: 20px;
-    border: 1px solid red;
-    flex-shrink: 0;
-}
 ol,
 ul{
     margin: 0;
@@ -387,7 +376,7 @@ figure{
         font-size: 1.5em;
         margin-bottom: .3em ;
     }
-    .project-url{
+    .project-link{
         font-size: 1em;
     }
     .project-course{
@@ -423,7 +412,7 @@ figure{
     .project-title{
         font-size: 1.5em;
     }
-    .project-url{
+    .project-link{
         font-size: 1em;
     }
     .project-course{
@@ -467,7 +456,7 @@ figure{
     .project-title{
         font-size: 1.5em;
     }
-    .project-url{
+    .project-link{
         font-size: 1em;
     }
     .project-course{
